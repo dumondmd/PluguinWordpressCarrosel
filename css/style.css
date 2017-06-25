@@ -1,0 +1,57 @@
+/*Grid*/
+#live_data {
+  margin: 0 auto;
+  background-color: #000;
+  width: 98%;
+  overflow: auto;
+  height: auto;
+  min-width: 600px;
+}
+#status_carrosel {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-weight: 800;
+}
+.tr_tabela_carrosel th {
+    background-color: #000;
+    border: #000 solid;
+    border-width: 1px;
+    color: white;
+}
+.tabela_carrosel_select td {
+    background: #d8d8d8;
+}
+.tabela_carrosel_new td {
+    background: #fff;
+}
+/*Colunas*/
+
+.reg_id {
+    width: 2%;
+    text-align: center;
+}
+.reg_endereco {
+    width: 45%;
+}
+.reg_link {
+    width: 45%;
+}
+.CampoImagem {
+  width: 6%;
+}
+
+
+/*Botoes*/
+.btn_delete {
+    color: white;
+    background: red;
+    border-radius: 12px;
+    cursor: pointer;
+}
+#btn_add {
+    color: white;
+    background: #22ae0d;
+    border-radius: 12px;
+    cursor: pointer;
+}

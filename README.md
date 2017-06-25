@@ -1,0 +1,1 @@
+# pluguin_wordpress_carrosel
